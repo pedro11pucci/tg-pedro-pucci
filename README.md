@@ -56,13 +56,35 @@ Meu nome é Pedro Henrique Pucci, tenho 20 anos, moro em Taubaté, e atualmente 
 ***08/2022*** <br>
 ***FATEC São José dos Campos*** <br>
 A proposta do projeto era desenvolver uma aplicação para gerenciar os chamados de ordens de serviços dos computadores dos laboratórios da FATEC. <br>
-Para isso, desenvolvimos um site que exibe todos os laboratórios da faculdade e todos os computadores que estão neles. Também é possível visualizar quais computadores tem problemas relatados e se uma ordem de serviço já foi aberta para ele. Também é possível entrar no modo Técnico, onde o usuário pode visualizar as ordens de serviços abertas, fechá-las quando o problema for reparado e ainda reorganizar a disposição dos computadores nos laboratórios através do editor de laboratórios. <br>
+Para isso, desenvolvimos um site que exibe todos os laboratórios da faculdade e todos os computadores que estão neles. Também é possível visualizar quais computadores tem problemas relatados e se uma ordem de serviço já foi aberta para ele. Também é possível entrar no modo Técnico, onde o usuário pode visualizar as ordens de serviços abertas, fechá-las quando o problema for reparado e ainda reorganizar a disposição dos computadores nos laboratórios através do editor de laboratórios, além de uma tela de estatísticas exibindo os problemas mais comums, quais computadores são mais afetados, quais laboratórios recebem mais chamados e mais. <br>
 
 **[Repositório](https://github.com/pedro11pucci/API_MirageGroup)** <br>
 
-### Tecnologias Utilizadas
+<div align="center"><img src="./media/mvp-sprint4.gif" alt="aplicação rodando" height="80%" width="80%"></div>
 
+### Tecnologias Utilizadas <br>
 
+- Python <img align="center" alt="Python" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />: A linguagem Python foi usada para todas as funções de backend, desde criação de rotas até conexões com o banco de dados.
+- Flask <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">: O framework Flask foi utilizado para criar as rotas, tanto do frontend quanto do backend.
+- HTML <img align="center" alt="HTML" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> CSS <img align="center" alt="CSS" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> JavaScript <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">: O HTML, CSS e JavaScript foram usados para fazer o frontend, desde o layout das páginas, a estilização dos elementos e as funcionalidades mais complexas, como o editor de laboratórios.
+- MySQL <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />: O banco de dados MySQL foi usado para armazenar os dados da aplicação. Esses são os laboratórios que existem, quais computadores estão em quais laboratórios, problemas relatados nesses computadores, a disposição deles nos laboratórios, os chamados abertos, os chamados fechados e as estatísticas.
+
+### Minhas Contribuições Pessoais <br>
+
+- **Criação do banco de dados**: Fui o responsável por modelar o banco de dados, criar as relações entre as entidades e implementá-lo na aplicação.
+- **Sistema de chamados**: Trabalhei no sistema de abertura e fechamento de chamados, que permite o usuário visualizar os computadores do laboratório, escolher o que apresenta defeitos, reportar o defeito dele, exibir ao usuário técnico qual computador de qual laboratório está com qual defeito e fechar o chamado após o problema ser resolvido.
+- **Editor de laboratórios**: Criei o editor de laboratórios, que permite reorganizar a disposição dos computadores de um laboratório, assim como adicionar ou remover computadores dele, e salvar as alterações de modo que elas sejam exibidas para os usuários não-técnicos.
+
+### Hard Skills
+
+- Utilização do **Flask** <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"> para criação de rotas da aplicação, utilizando diferentes métodos HTTP e parâmetros de URL e de requisição.
+- Utilização do **JavaScript DOM** <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> para a criação de funcionalidades dinâmicas com interação do usuário.
+- **Transações** complexas com o banco de dados **MySQL** <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+### Soft Skills
+
+- **Gerenciamento de uma equipe Scrum**: Utilizamos a metodologia ágil Scrum para desenvolver o projeto, o que requiriu um comprometimento e regularidade de presença em dailys e entrega de tasks de todos os membros da equipe.
+- **Scrum Master**: Como o Scrum Master da equipe, precisei estar atento as contribuições de todos os membros do projeto, para garantir que tudo estava de acordo com o planejamento da sprint e, caso necessário, oferecer minha ajuda.
 
 </details>
 
