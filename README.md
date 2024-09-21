@@ -5,8 +5,8 @@
 Meu nome é Pedro Henrique Pucci, tenho 20 anos, moro em Taubaté, e atualmente estou no 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos. Sempre fui apaixonado por tecnologia e soube que gostaria de seguir carreira nesta área. Meu primeiro contato com a programação foi em um workshop oferecido por uma empresa na minha cidade. Depois disso, participei do curso Técnico de Desenvolvimento de Sistemas no SENAI Taubaté, onde entrei de cabeça no mundo da programação e desenvolvimento de software. Finalizado o curso técnico e o ensino médio, entrei para a FATEC, onde estarei concluindo minha graduação.
 
 ## Contatos
-* [GitHub](https://github.com/pedro11pucci) <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
-* [LinkedIn](https://www.linkedin.com/in/pedro-p-122962234/)
+* <a href="https://github.com/pedro11pucci"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://www.linkedin.com/in/pedro-p-122962234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## Meus Principais Conhecimentos
 
@@ -52,6 +52,15 @@ Meu nome é Pedro Henrique Pucci, tenho 20 anos, moro em Taubaté, e atualmente 
 <details>
 <summary>1º Semestre</summary>
 </br>
+
+***08/2022*** <br>
+***FATEC São José dos Campos*** <br>
+A proposta do projeto era desenvolver uma aplicação para gerenciar os chamados de ordens de serviços dos computadores dos laboratórios da FATEC. <br>
+Para isso, desenvolvimos um site que exibe todos os laboratórios da faculdade e todos os computadores que estão neles. Também é possível visualizar quais computadores tem problemas relatados e se uma ordem de serviço já foi aberta para ele. Também é possível entrar no modo Técnico, onde o usuário pode visualizar as ordens de serviços abertas, fechá-las quando o problema for reparado e ainda reorganizar a disposição dos computadores nos laboratórios através do editor de laboratórios. <br>
+
+**[Repositório](https://github.com/pedro11pucci/API_MirageGroup)** <br>
+
+### Tecnologias Utilizadas
 
 
 
