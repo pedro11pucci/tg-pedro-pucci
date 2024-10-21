@@ -94,12 +94,12 @@ Para isso, desenvolvimos um site que exibe todos os laboratórios da faculdade e
 <summary>2º Semestre</summary>
 </br>
 
-***08/2022*** <br>
+***03/2023*** <br>
 ***FATEC São José dos Campos*** <br>
 A proposta do projeto era desenvolver uma plataforma de gestão de salas de aula, como poder registrar alunos, turmas, atribuições de tarefas e distribuição de notas. <br>
 Para isso, criamos uma aplicação desktop que é possível de ser instalada em qualquer computador para que o professor possa gerenciar suas turmas de qualquer lugar.
 
-**[Repositório](https://github.com/pedro11pucci/API_MirageGroup_2sem)** <br>
+**[Repositório](https://github.com/MirageGroup/API_MirageGroup_2sem)** <br>
 
 <div align="center"><img src="./media/api2.gif" alt="aplicação rodando" height="80%" width="80%"></div>
 
@@ -127,12 +127,12 @@ Para isso, criamos uma aplicação desktop que é possível de ser instalada em 
 <summary>3º Semestre</summary>
 </br>
 
-***08/2022*** <br>
+***08/2023*** <br>
 ***IONIC Health*** <br>
 A proposta do projeto era desenvolver uma aplicação para fazer a gestão de equipes, de processos de desenvolvimento, de tasks e de armazenação das evidências dessas tasks. <br>
 Para isso, desenvolvimos uma aplicação onde o usuário pode logar, visualizar suas equipes, os processos aos quais ele está atribuído, quais tasks e deve realizar e armazenar evidências do cumprimento dessas tasks. Pode também logar um usuário gestor, que pode cadastrar novos usuários, criar novas equipes, novos processos, atribuir equipes a estes processos e criar tasks dentro dos mesmos. <br>
 
-**[Repositório](https://github.com/pedro11pucci/API_MirageGroup_3sem)** <br>
+**[Repositório](https://github.com/MirageGroup/API_MirageGroup_3sem)** <br>
 
 [<img src="https://img.youtube.com/vi/lc2X6gtJVtY/maxresdefault.jpg" width="80%" height="80%" />](https://youtu.be/lc2X6gtJVtY)
 
@@ -142,7 +142,7 @@ Para isso, desenvolvimos uma aplicação onde o usuário pode logar, visualizar 
 - React <img align="center" alt="MySQL" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />: O React foi utilizado para desenvolver o frontend da aplicação.
 - Express <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">: O Express foi o framework web utilizado para criar e rodar o backend da aplicação.
 - TypeORM <img align="center" alt="Ts" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">: O TypeORM foi utilizado para fazer o mapeamento a relação das entidades do banco de dados com o aplicativo e fazer as transações com o banco de dados.
-- MySQL <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />: O banco de dados MySQL foi usado para armazenar os dados da aplicação. Esses são os laboratórios que existem, quais computadores estão em quais laboratórios, problemas relatados nesses computadores, a disposição deles nos laboratórios, os chamados abertos, os chamados fechados e as estatísticas.
+- MySQL <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />: O banco de dados MySQL foi usado para armazenar os dados da aplicação.
 - AWS <img align="center" alt="AWS" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />: Utilizamos o serviço S3 da plataforma AWS para fazer o armazenamento dos arquivos de evidências das tasks.
 
 ### Minhas Contribuições Pessoais <br>
@@ -158,5 +158,43 @@ Para isso, desenvolvimos uma aplicação onde o usuário pode logar, visualizar 
 
 - **Gerenciamento de uma equipe Scrum**: Utilizamos a metodologia ágil Scrum para desenvolver o projeto, o que requiriu um comprometimento e regularidade de presença em dailys e entrega de tasks de todos os membros da equipe.
 - **Scrum Master**: Como o Scrum Master da equipe, precisei estar atento as contribuições de todos os membros do projeto, para garantir que tudo estava de acordo com o planejamento da sprint e, caso necessário, oferecer minha ajuda.
+
+</details>
+
+<details>
+<summary>4º Semestre</summary>
+</br>
+
+***03/2024*** <br>
+***SIATT*** <br>
+A proposta do projeto era desenvolver uma aplicação de gestão de reuniões da empresa. <br>
+Para isso, desenvolvemos um site onde o usuário pode logar, ver as reuniões as quais ele está atribuído, criar reuniões próprias
+
+**[Repositório](https://github.com/MirageGroup/API_MirageGroup_4sem)** <br>
+
+<div align="center"><img src="./media/API4.jpeg" alt="aplicação rodando" height="80%" width="80%"></div>
+
+### Tecnologias Utilizadas <br>
+
+- TypeScript <img align="center" alt="TypeScript" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />: O TypeScript foi utilizado tanto no backend, para criar a API REST que se conecta com o banco de dados, quanto no frontend, para desenvolver a interface do site utilizando React.
+- React <img align="center" alt="MySQL" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />: O React foi utilizado para desenvolver o frontend da aplicação.
+- Express <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">: O Express foi o framework web utilizado para criar e rodar o backend da aplicação.
+- TypeORM <img align="center" alt="Ts" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">: O TypeORM foi utilizado para fazer o mapeamento a relação das entidades do banco de dados com o aplicativo e fazer as transações com o banco de dados.
+- MySQL <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />: O banco de dados MySQL foi usado para armazenar os dados da aplicação.
+- AWS <img align="center" alt="AWS" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />: Utilizamos o serviço S3 da plataforma AWS para fazer o armazenamento das atas das reuniões.
+
+### Minhas Contribuições Pessoais <br>
+
+- **Criação do banco de dados**: Fui o responsável por modelar o banco de dados, criar as relações entre as entidades e implementá-lo na aplicação.
+- **Armazenamento de ata**: Criei o sistema de armazenamento das atas das reuniões, que faz o upload de arquivos através de uma requisição para uma instância S3 da AWS e depois armazena o link de acesso do arquivo armazenado no banco de dados MySQL.
+- **Sistema de cadastro com verificação em cascata**: Sistema de cadastro dos participantes das reuniões que verifica se o participante já está cadastrado em uma reunião naquele horário, se a sala já está reservada para aquele horário, até qual horário etc...
+
+### Hard Skills
+
+- Utilização de serviços **AWS** <img align="center" alt="AWS" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> que são externos a aplicação principal.
+
+### Soft Skills
+
+- **Gerenciamento de uma equipe Scrum**: Utilizamos a metodologia ágil Scrum para desenvolver o projeto, o que requiriu um comprometimento e regularidade de presença em dailys e entrega de tasks de todos os membros da equipe.
 
 </details>
