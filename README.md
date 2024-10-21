@@ -57,6 +57,7 @@ Meu nome é Pedro Henrique Pucci, moro em Taubaté, e atualmente estou no 5º se
 
 ***08/2022*** <br>
 ***FATEC São José dos Campos*** <br>
+***Jean Carlos Lourenço Costa*** <br>
 A proposta do projeto era desenvolver uma aplicação para gerenciar os chamados de ordens de serviços dos computadores dos laboratórios da FATEC. <br>
 Para isso, desenvolvimos um site que exibe todos os laboratórios da faculdade e todos os computadores que estão neles. Também é possível visualizar quais computadores tem problemas relatados e se uma ordem de serviço já foi aberta para ele. Também é possível entrar no modo Técnico, onde o usuário pode visualizar as ordens de serviços abertas, fechá-las quando o problema for reparado e ainda reorganizar a disposição dos computadores nos laboratórios através do editor de laboratórios, além de uma tela de estatísticas exibindo os problemas mais comums, quais computadores são mais afetados, quais laboratórios recebem mais chamados e mais. <br>
 
@@ -96,6 +97,7 @@ Para isso, desenvolvimos um site que exibe todos os laboratórios da faculdade e
 
 ***03/2023*** <br>
 ***FATEC São José dos Campos*** <br>
+***Cláudio Etelvino de Lima*** <br>
 A proposta do projeto era desenvolver uma plataforma de gestão de salas de aula, como poder registrar alunos, turmas, atribuições de tarefas e distribuição de notas. <br>
 Para isso, criamos uma aplicação desktop que é possível de ser instalada em qualquer computador para que o professor possa gerenciar suas turmas de qualquer lugar.
 
@@ -129,6 +131,7 @@ Para isso, criamos uma aplicação desktop que é possível de ser instalada em 
 
 ***08/2023*** <br>
 ***IONIC Health*** <br>
+***Cláudio Etelvino de Lima*** <br>
 A proposta do projeto era desenvolver uma aplicação para fazer a gestão de equipes, de processos de desenvolvimento, de tasks e de armazenação das evidências dessas tasks. <br>
 Para isso, desenvolvimos uma aplicação onde o usuário pode logar, visualizar suas equipes, os processos aos quais ele está atribuído, quais tasks e deve realizar e armazenar evidências do cumprimento dessas tasks. Pode também logar um usuário gestor, que pode cadastrar novos usuários, criar novas equipes, novos processos, atribuir equipes a estes processos e criar tasks dentro dos mesmos. <br>
 
@@ -167,6 +170,7 @@ Para isso, desenvolvimos uma aplicação onde o usuário pode logar, visualizar 
 
 ***03/2024*** <br>
 ***SIATT*** <br>
+***Fabiano Sabha Walczak*** <br>
 A proposta do projeto era desenvolver uma aplicação de gestão de reuniões da empresa. <br>
 Para isso, desenvolvemos um site onde o usuário pode logar, ver as reuniões as quais ele está atribuído, criar reuniões próprias
 
