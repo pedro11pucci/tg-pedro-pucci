@@ -90,3 +90,37 @@ Para isso, desenvolvimos um site que exibe todos os laboratórios da faculdade e
 
 </details>
 
+
+<details>
+<summary>2º Semestre</summary>
+</br>
+
+***08/2022*** <br>
+***FATEC São José dos Campos*** <br>
+A proposta do projeto era desenvolver uma plataforma de gestão de salas de aula, como poder registrar alunos, turmas, atribuições de tarefas e distribuição de notas. <br>
+Para isso, criamos uma aplicação desktop que é possível de ser instalada em qualquer computador para que o professor possa gerenciar suas turmas de qualquer lugar.
+
+**[Repositório](https://github.com/pedro11pucci/API_MirageGroup_2sem)** <br>
+
+<div align="center"><img src="./media/api2.gif" alt="aplicação rodando" height="80%" width="80%"></div>
+
+### Tecnologias Utilizadas <br>
+
+- Java <img align="center" alt="Java" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />: A linguagem Java, junto com o framework Java Swing, foi utilizada para criar toda a base da aplicação, desde a interface até as conexões com o banco de dados.
+- MySQL <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />: O banco de dados MySQL foi usado para armazenar os dados da aplicação. Esses são os alunos cadastrados, as turmas, as atividades e as notas.
+
+### Minhas Contribuições Pessoais <br>
+
+- **Criação do banco de dados**: Fui o responsável por modelar o banco de dados, criar as relações entre as entidades e implementá-lo na aplicação.
+- **Atribuição de tarefas**: Fui o responsável por criar o sistema de atribuição de tarefas aos alunos das turmas.
+
+### Hard Skills
+
+- Utilização do **Java Swing** <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> para criação de interface de uma aplicação desktop, algo que não estávamos acostumados a fazer.
+
+### Soft Skills
+
+- **Gerenciamento de uma equipe Scrum**: Utilizamos a metodologia ágil Scrum para desenvolver o projeto, o que requiriu um comprometimento e regularidade de presença em dailys e entrega de tasks de todos os membros da equipe.
+
+</details>
+
