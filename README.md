@@ -202,3 +202,34 @@ Para isso, desenvolvemos um site onde o usuário pode logar, ver as reuniões as
 - **Gerenciamento de uma equipe Scrum**: Utilizamos a metodologia ágil Scrum para desenvolver o projeto, o que requiriu um comprometimento e regularidade de presença em dailys e entrega de tasks de todos os membros da equipe.
 
 </details>
+
+<details>
+<summary>5º Semestre</summary>
+</br>
+
+***08/2024*** <br>
+***KerSys*** <br>
+***Jean Carlos Lourenço Costa*** <br>
+A proposta do projeto era desenvolver uma aplicação onde o usuário pode ser atualizado sobre as condições climáticas em seus cultivos. <br>
+Para isso, desenvolvemos um aplicativo mobile onde o usuário tem sua conta e pode cadastrar seus cultivos, escolhendo as coordenadas de onde eles estão localizados e quais são os limites máximos de temperatura e pluviometria daquele cultivo específico, para assim ser alertado caso as condições ultrapassem os limites aceitáveis.
+
+**[Repositório](https://github.com/MirageGroup/API_MirageGroup_5_Semestre)** <br>
+
+<div align="center"><img src="./media/API4.jpeg" alt="aplicação rodando" height="80%" width="80%"></div>
+
+### Tecnologias Utilizadas <br>
+
+- TypeScript <img align="center" alt="TypeScript" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />: O TypeScript foi utilizado tanto no backend, para criar a API REST que se conecta com o banco de dados, quanto no frontend, para desenvolver a interface do aplicativo utilizando React Native.
+- React Native <img align="center" alt="MySQL" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />: O React Native foi utilizado para desenvolver o aplicativo.
+- Express <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">: O Express foi o framework web utilizado para criar e rodar o backend da aplicação.
+- TypeORM <img align="center" alt="Ts" height="18" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">: O TypeORM foi utilizado para fazer o mapeamento a relação das entidades do banco de dados com o aplicativo e fazer as transações com o banco de dados.
+- Firebase <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png">: O banco de dados não relacional do Firebase foi utilizado para armazenar as informações dos cultivos.
+- MySQL <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />: O banco de dados MySQL foi usado para armazenar as informações de login do usuário.
+
+### Minhas Contribuições Pessoais <br>
+
+### Hard Skills
+
+### Soft Skills
+
+</details>
