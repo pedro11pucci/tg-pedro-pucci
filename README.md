@@ -88,8 +88,9 @@ Para isso, desenvolvimos um site que exibe todos os laboratórios da faculdade e
 
 ### Soft Skills
 
-- **Gerenciamento de uma equipe Scrum**: Utilizamos a metodologia ágil Scrum para desenvolver o projeto, o que requiriu um comprometimento e regularidade de presença em dailys e entrega de tasks de todos os membros da equipe.
-- **Scrum Master**: Como o Scrum Master da equipe, precisei estar atento as contribuições de todos os membros do projeto, para garantir que tudo estava de acordo com o planejamento da sprint e, caso necessário, oferecer minha ajuda.
+- **Comunicação**: Durante o desenvolvimento do projeto, mantive uma comunicação clara e eficaz com todos os membros da equipe. Nas reuniões diárias (dailys) e durante a resolução de impedimentos, garanti que as informações fluíssem de forma objetiva e que todos estivessem alinhados em relação aos objetivos e prazos das sprints.
+- **Proatividade**: Antecipei necessidades da equipe e do projeto, oferecendo suporte antes que questões se transformassem em problemas maiores. Também tomei a iniciativa de adaptar processos e sugerir melhorias nas práticas utilizadas, sempre buscando otimizar o trabalho coletivo.
+- **Gestão de Tempo**: A organização das tarefas no backlog e a definição de prioridades foram fundamentais para assegurar que o projeto progredisse dentro do cronograma. Isso exigiu disciplina para gerenciar meu tempo entre o acompanhamento da equipe, minhas próprias entregas e o planejamento das sprints. 
 
 </details>
 
@@ -125,7 +126,9 @@ Para isso, criamos uma aplicação desktop que é possível de ser instalada em 
 
 ### Soft Skills
 
-- **Gerenciamento de uma equipe Scrum**: Utilizamos a metodologia ágil Scrum para desenvolver o projeto, o que requiriu um comprometimento e regularidade de presença em dailys e entrega de tasks de todos os membros da equipe.
+- **Comunicação**: Durante o desenvolvimento do projeto, mantive uma comunicação clara e eficaz com todos os membros da equipe. Nas reuniões diárias (dailys) e durante a resolução de impedimentos, garanti que as informações fluíssem de forma objetiva e que todos estivessem alinhados em relação aos objetivos e prazos das sprints.
+- **Proatividade**: Antecipei necessidades da equipe e do projeto, oferecendo suporte antes que questões se transformassem em problemas maiores. Também tomei a iniciativa de adaptar processos e sugerir melhorias nas práticas utilizadas, sempre buscando otimizar o trabalho coletivo.
+- **Gestão de Tempo**: A organização das tarefas no backlog e a definição de prioridades foram fundamentais para assegurar que o projeto progredisse dentro do cronograma. Isso exigiu disciplina para gerenciar meu tempo entre o acompanhamento da equipe, minhas próprias entregas e o planejamento das sprints. 
 
 </details>
 
@@ -165,8 +168,9 @@ Para isso, desenvolvimos uma aplicação onde o usuário pode logar, visualizar 
 
 ### Soft Skills
 
-- **Gerenciamento de uma equipe Scrum**: Utilizamos a metodologia ágil Scrum para desenvolver o projeto, o que requiriu um comprometimento e regularidade de presença em dailys e entrega de tasks de todos os membros da equipe.
-- **Scrum Master**: Como o Scrum Master da equipe, precisei estar atento as contribuições de todos os membros do projeto, para garantir que tudo estava de acordo com o planejamento da sprint e, caso necessário, oferecer minha ajuda.
+- **Proatividade**: Antecipei necessidades da equipe e do projeto, oferecendo suporte antes que questões se transformassem em problemas maiores. Também tomei a iniciativa de adaptar processos e sugerir melhorias nas práticas utilizadas, sempre buscando otimizar o trabalho coletivo.
+- **Adaptabilidade**: Ao longo do projeto, precisei ajustar planos e estratégias conforme novos desafios surgiam ou mudanças de escopo eram introduzidas. Mantive a equipe engajada e motivada durante essas transições, garantindo que os resultados esperados fossem alcançados.
+- **Resolução de Problemas**: Identifiquei e resolvi impedimentos enfrentados pela equipe durante o ciclo do projeto, utilizando uma abordagem analítica e colaborativa. Quando surgiam bloqueios, como por exemplo a impossibilidade de se utilizar a API da Azure para conectar todos os e-mails da empresa automaticamente com a plataforma, promovi discussões para encontrar soluções viáveis, sempre considerando os prazos e a qualidade do produto.
 
 </details>
 
@@ -206,7 +210,8 @@ Para isso, desenvolvemos um site onde o usuário pode logar, ver as reuniões as
 
 ### Soft Skills
 
-- **Gerenciamento de uma equipe Scrum**: Utilizamos a metodologia ágil Scrum para desenvolver o projeto, o que requiriu um comprometimento e regularidade de presença em dailys e entrega de tasks de todos os membros da equipe.
+- **Comunicação**: Durante o desenvolvimento do projeto, mantive uma comunicação clara e eficaz com todos os membros da equipe. Nas reuniões diárias (dailys) e durante a resolução de impedimentos, garanti que as informações fluíssem de forma objetiva e que todos estivessem alinhados em relação aos objetivos e prazos das sprints.
+- **Gestão de Tempo**: A organização das tarefas no backlog e a definição de prioridades foram fundamentais para assegurar que o projeto progredisse dentro do cronograma. Isso exigiu disciplina para gerenciar meu tempo entre o acompanhamento da equipe, minhas próprias entregas e o planejamento das sprints. 
 
 </details>
 
@@ -224,7 +229,7 @@ Para isso, desenvolvemos um aplicativo mobile onde o usuário tem sua conta e po
 
 **[Repositório](https://github.com/MirageGroup/API_MirageGroup_5_Semestre)** <br>
 
-<div align="center"><img src="./media/API4.jpeg" alt="aplicação rodando" height="80%" width="80%"></div>
+<div align="center"><img src="./media/api5comprimido.gif" alt="aplicação rodando" height="40%" width="40%"></div>
 
 ### Tecnologias Utilizadas <br>
 
