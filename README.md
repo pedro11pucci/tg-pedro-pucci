@@ -57,8 +57,10 @@ Meu nome é Pedro Henrique Pucci, moro em Taubaté, e atualmente estou no 5º se
 
 ***08/2022*** <br>
 ***FATEC São José dos Campos*** <br>
+***Faculdade*** <br>
 ***Jean Carlos Lourenço Costa*** <br>
 A proposta do projeto era desenvolver uma aplicação para gerenciar os chamados de ordens de serviços dos computadores dos laboratórios da FATEC. <br>
+O que motivou o projeto foi a dificuldade da faculdade em organizar quais computadores de quais laboratórios estavam com quais problemas, fazendo isso de forma manual. <br>
 Para isso, desenvolvimos um site que exibe todos os laboratórios da faculdade e todos os computadores que estão neles. Também é possível visualizar quais computadores tem problemas relatados e se uma ordem de serviço já foi aberta para ele. Também é possível entrar no modo Técnico, onde o usuário pode visualizar as ordens de serviços abertas, fechá-las quando o problema for reparado e ainda reorganizar a disposição dos computadores nos laboratórios através do editor de laboratórios, além de uma tela de estatísticas exibindo os problemas mais comums, quais computadores são mais afetados, quais laboratórios recebem mais chamados e mais. <br>
 
 **[Repositório](https://github.com/pedro11pucci/API_MirageGroup)** <br>
@@ -80,9 +82,9 @@ Para isso, desenvolvimos um site que exibe todos os laboratórios da faculdade e
 
 ### Hard Skills
 
-- Utilização do **Flask** <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"> para criação de rotas da aplicação, utilizando diferentes métodos HTTP e parâmetros de URL e de requisição.
-- Utilização do **JavaScript DOM** <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> para a criação de funcionalidades dinâmicas com interação do usuário.
-- **Transações** complexas com o banco de dados **MySQL** <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+- Utilização do **Flask** <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"> para criação de rotas da aplicação, utilizando diferentes métodos HTTP e parâmetros de URL e de requisição. Proficiência: 9/10
+- Utilização do **JavaScript DOM** <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> para a criação de funcionalidades dinâmicas com interação do usuário. Proficiência: 10/10
+- **Transações** complexas com o banco de dados **MySQL** <img align="center" alt="MySQL" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> Proficiência: 10/10
 
 ### Soft Skills
 
@@ -97,8 +99,10 @@ Para isso, desenvolvimos um site que exibe todos os laboratórios da faculdade e
 
 ***03/2023*** <br>
 ***FATEC São José dos Campos*** <br>
+***Faculdade*** <br>
 ***Cláudio Etelvino de Lima*** <br>
 A proposta do projeto era desenvolver uma plataforma de gestão de salas de aula, como poder registrar alunos, turmas, atribuições de tarefas e distribuição de notas. <br>
+O projeto foi motivado por uma professora que precisava de auxílio para fazer a gestão de salas, pois estava tendo dificuldade em faze-lo no papel. <br>
 Para isso, criamos uma aplicação desktop que é possível de ser instalada em qualquer computador para que o professor possa gerenciar suas turmas de qualquer lugar.
 
 **[Repositório](https://github.com/MirageGroup/API_MirageGroup_2sem)** <br>
@@ -117,7 +121,7 @@ Para isso, criamos uma aplicação desktop que é possível de ser instalada em 
 
 ### Hard Skills
 
-- Utilização do **Java Swing** <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> para criação de interface de uma aplicação desktop, algo que não estávamos acostumados a fazer.
+- Utilização do **Java Swing** <img align="center" alt="Ts" height="18" width="18" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> para criação de interface de uma aplicação desktop, algo que não estávamos acostumados a fazer. Proficiência: 6/10
 
 ### Soft Skills
 
@@ -131,8 +135,10 @@ Para isso, criamos uma aplicação desktop que é possível de ser instalada em 
 
 ***08/2023*** <br>
 ***IONIC Health*** <br>
+***Saúde*** <br>
 ***Cláudio Etelvino de Lima*** <br>
 A proposta do projeto era desenvolver uma aplicação para fazer a gestão de equipes, de processos de desenvolvimento, de tasks e de armazenação das evidências dessas tasks. <br>
+O projeto foi motivado pela necessidade da empresa de se ter uma forma de gerenciar as equipes de forma mais eficiente e automática. <br>
 Para isso, desenvolvimos uma aplicação onde o usuário pode logar, visualizar suas equipes, os processos aos quais ele está atribuído, quais tasks e deve realizar e armazenar evidências do cumprimento dessas tasks. Pode também logar um usuário gestor, que pode cadastrar novos usuários, criar novas equipes, novos processos, atribuir equipes a estes processos e criar tasks dentro dos mesmos. <br>
 
 **[Repositório](https://github.com/MirageGroup/API_MirageGroup_3sem)** <br>
@@ -155,7 +161,7 @@ Para isso, desenvolvimos uma aplicação onde o usuário pode logar, visualizar 
 
 ### Hard Skills
 
-- Utilização de serviços **AWS** <img align="center" alt="AWS" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> que são externos a aplicação principal.
+- Utilização de serviços **AWS** <img align="center" alt="AWS" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> que são externos a aplicação principal. Proficiência: 7/10
 
 ### Soft Skills
 
@@ -170,6 +176,7 @@ Para isso, desenvolvimos uma aplicação onde o usuário pode logar, visualizar 
 
 ***03/2024*** <br>
 ***SIATT*** <br>
+***Defesa e armamento*** <br>
 ***Fabiano Sabha Walczak*** <br>
 A proposta do projeto era desenvolver uma aplicação de gestão de reuniões da empresa. <br>
 Para isso, desenvolvemos um site onde o usuário pode logar, ver as reuniões as quais ele está atribuído, criar reuniões próprias
@@ -195,7 +202,7 @@ Para isso, desenvolvemos um site onde o usuário pode logar, ver as reuniões as
 
 ### Hard Skills
 
-- Utilização de serviços **AWS** <img align="center" alt="AWS" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> que são externos a aplicação principal.
+- Utilização de serviços **AWS** <img align="center" alt="AWS" height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> que são externos a aplicação principal. Proficiência: 8/10
 
 ### Soft Skills
 
@@ -209,8 +216,10 @@ Para isso, desenvolvemos um site onde o usuário pode logar, ver as reuniões as
 
 ***08/2024*** <br>
 ***KerSys*** <br>
+***Agronegócio*** <br>
 ***Jean Carlos Lourenço Costa*** <br>
 A proposta do projeto era desenvolver uma aplicação onde o usuário pode ser atualizado sobre as condições climáticas em seus cultivos. <br>
+O projeto foi motivado pela necessidade dos produtores rurais de rastrearam as condições climáticas de seus cultivos em áreas remotas. <br>
 Para isso, desenvolvemos um aplicativo mobile onde o usuário tem sua conta e pode cadastrar seus cultivos, escolhendo as coordenadas de onde eles estão localizados e quais são os limites máximos de temperatura e pluviometria daquele cultivo específico, para assim ser alertado caso as condições ultrapassem os limites aceitáveis.
 
 **[Repositório](https://github.com/MirageGroup/API_MirageGroup_5_Semestre)** <br>
