@@ -183,6 +183,7 @@ Para isso, desenvolvimos uma aplicação onde o usuário pode logar, visualizar 
 ***Defesa e armamento*** <br>
 ***Fabiano Sabha Walczak*** <br>
 A proposta do projeto era desenvolver uma aplicação de gestão de reuniões da empresa. <br>
+O projeto foi motivado pela dificuldade que a empresa tinha em gerenciar as reuniões no papel, fazendo com que o processo fosse ineficiente e trabalhoso. <br>
 Para isso, desenvolvemos um site onde o usuário pode logar, ver as reuniões as quais ele está atribuído, criar reuniões próprias
 
 **[Repositório](https://github.com/MirageGroup/API_MirageGroup_4sem)** <br>
