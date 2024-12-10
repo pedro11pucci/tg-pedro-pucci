@@ -90,9 +90,7 @@ Para isso, desenvolvimos um site que exibe todos os laboratórios da faculdade e
 
 ### Soft Skills
 
-- **Comunicação**: Durante o desenvolvimento do projeto, mantive uma comunicação clara e eficaz com todos os membros da equipe. Nas reuniões diárias (dailys) e durante a resolução de impedimentos, garanti que as informações fluíssem de forma objetiva e que todos estivessem alinhados em relação aos objetivos e prazos das sprints.
-- **Proatividade**: Antecipei necessidades da equipe e do projeto, oferecendo suporte antes que questões se transformassem em problemas maiores. Também tomei a iniciativa de adaptar processos e sugerir melhorias nas práticas utilizadas, sempre buscando otimizar o trabalho coletivo.
-- **Gestão de Tempo**: A organização das tarefas no backlog e a definição de prioridades foram fundamentais para assegurar que o projeto progredisse dentro do cronograma. Isso exigiu disciplina para gerenciar meu tempo entre o acompanhamento da equipe, minhas próprias entregas e o planejamento das sprints. 
+- **Liderança**: Como Scrum Master do projeto e como alguém que havia mais experiência que o resto da equipe em desenvolvimento de software neste primeiro semestre, auxiliei todos os membros nas tarefas que deveriam cumprir, ensinando-os as tecnologias que deveriam usar e tirando qualquer dúvida que tivessem.
 
 </details>
 
@@ -128,9 +126,7 @@ Para isso, criamos uma aplicação desktop que é possível de ser instalada em 
 
 ### Soft Skills
 
-- **Comunicação**: Durante o desenvolvimento do projeto, mantive uma comunicação clara e eficaz com todos os membros da equipe. Nas reuniões diárias (dailys) e durante a resolução de impedimentos, garanti que as informações fluíssem de forma objetiva e que todos estivessem alinhados em relação aos objetivos e prazos das sprints.
-- **Proatividade**: Antecipei necessidades da equipe e do projeto, oferecendo suporte antes que questões se transformassem em problemas maiores. Também tomei a iniciativa de adaptar processos e sugerir melhorias nas práticas utilizadas, sempre buscando otimizar o trabalho coletivo.
-- **Gestão de Tempo**: A organização das tarefas no backlog e a definição de prioridades foram fundamentais para assegurar que o projeto progredisse dentro do cronograma. Isso exigiu disciplina para gerenciar meu tempo entre o acompanhamento da equipe, minhas próprias entregas e o planejamento das sprints. 
+- **Flexibilidade**: Tive que ser flexível no desenvolvimento do projeto por causa da dificuldade que não só eu, mas todos da equipe, tinhamos com a tecnologia sendo utilizada.
 
 </details>
 
@@ -170,8 +166,6 @@ Para isso, desenvolvimos uma aplicação onde o usuário pode logar, visualizar 
 
 ### Soft Skills
 
-- **Proatividade**: Antecipei necessidades da equipe e do projeto, oferecendo suporte antes que questões se transformassem em problemas maiores. Também tomei a iniciativa de adaptar processos e sugerir melhorias nas práticas utilizadas, sempre buscando otimizar o trabalho coletivo.
-- **Adaptabilidade**: Ao longo do projeto, precisei ajustar planos e estratégias conforme novos desafios surgiam ou mudanças de escopo eram introduzidas. Mantive a equipe engajada e motivada durante essas transições, garantindo que os resultados esperados fossem alcançados.
 - **Resolução de Problemas**: Identifiquei e resolvi impedimentos enfrentados pela equipe durante o ciclo do projeto, utilizando uma abordagem analítica e colaborativa. Quando surgiam bloqueios, como por exemplo a impossibilidade de se utilizar a API da Azure para conectar todos os e-mails da empresa automaticamente com a plataforma, promovi discussões para encontrar soluções viáveis, sempre considerando os prazos e a qualidade do produto.
 
 </details>
@@ -213,8 +207,7 @@ Para isso, desenvolvemos um site onde o usuário pode logar, ver as reuniões as
 
 ### Soft Skills
 
-- **Comunicação**: Durante o desenvolvimento do projeto, mantive uma comunicação clara e eficaz com todos os membros da equipe. Nas reuniões diárias (dailys) e durante a resolução de impedimentos, garanti que as informações fluíssem de forma objetiva e que todos estivessem alinhados em relação aos objetivos e prazos das sprints.
-- **Gestão de Tempo**: A organização das tarefas no backlog e a definição de prioridades foram fundamentais para assegurar que o projeto progredisse dentro do cronograma. Isso exigiu disciplina para gerenciar meu tempo entre o acompanhamento da equipe, minhas próprias entregas e o planejamento das sprints. 
+- **Gestão de Equipe**: Tive que adaptar a forma que a equipe trabalha, pois três membros se juntaram ao grupo no meio do semestre e não estavam acostumados com nossa dinâmica de trabalho.
 
 </details>
 
@@ -253,6 +246,6 @@ Para isso, desenvolvemos um aplicativo mobile onde o usuário tem sua conta e po
 
 ### Soft Skills
 
-- **Gestão de Tempo**: A organização das tarefas no backlog e a definição de prioridades foram fundamentais para assegurar que o projeto progredisse dentro do cronograma. Isso exigiu disciplina para gerenciar meu tempo entre o acompanhamento da equipe, minhas próprias entregas e o planejamento das sprints. 
+- **Adaptabilidade**: Tive que me adaptar para poder continuar trabalhando no projeto apesar das dificuldades que questões fora da faculdade estavam me causando.
 
 </details>
