@@ -249,6 +249,10 @@ Para isso, desenvolvemos um aplicativo mobile onde o usuário tem sua conta e po
 
 ### Hard Skills
 
+- Utilização da **API Open Weather** para adquirir os dados meteorológicos das colheitas dos usuários. Proficiência: 7/10
+
 ### Soft Skills
+
+- **Gestão de Tempo**: A organização das tarefas no backlog e a definição de prioridades foram fundamentais para assegurar que o projeto progredisse dentro do cronograma. Isso exigiu disciplina para gerenciar meu tempo entre o acompanhamento da equipe, minhas próprias entregas e o planejamento das sprints. 
 
 </details>
