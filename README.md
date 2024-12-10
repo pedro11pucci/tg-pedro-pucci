@@ -245,6 +245,8 @@ Para isso, desenvolvemos um aplicativo mobile onde o usuário tem sua conta e po
 
 ### Minhas Contribuições Pessoais <br>
 
+- **Criação do banco de dados**: Fui o responsável por modelar o banco de dados, criar as relações entre as entidades e implementá-lo na aplicação.
+
 ### Hard Skills
 
 ### Soft Skills
