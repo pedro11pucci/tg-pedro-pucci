@@ -6,6 +6,8 @@
 
 Meu nome é Pedro Henrique Pucci, moro em Taubaté, e atualmente estou no 5º semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos. Sempre fui apaixonado por tecnologia e soube que gostaria de seguir carreira nesta área. Meu primeiro contato com a programação foi em um workshop oferecido por uma empresa na minha cidade. Depois disso, participei do curso Técnico de Desenvolvimento de Sistemas no SENAI Taubaté, onde entrei de cabeça no mundo da programação e desenvolvimento de software. Finalizado o curso técnico e o ensino médio, entrei para a FATEC, onde estarei concluindo minha graduação.
 
+Ainda estou buscando minha oportunidade de adquirir experiências profissionais na área.
+
 ## Contatos
 * <a href="https://github.com/pedro11pucci"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 * <a href="https://www.linkedin.com/in/pedro-p-122962234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
