@@ -249,3 +249,42 @@ Para isso, desenvolvemos um aplicativo mobile onde o usuário tem sua conta e po
 - **Adaptabilidade**: Tive que me adaptar para poder continuar trabalhando no projeto apesar das dificuldades que questões fora da faculdade estavam me causando.
 
 </details>
+
+
+<details>
+<summary>6º Semestre</summary>
+</br>
+
+***03/2025*** <br>
+***Dom Rock*** <br>
+***Inteligência Artificial*** <br>
+***José Walmir Gonçalves Duque*** <br>
+A proposta do projeto foi desenvolver um chatbot com um modelo de linguagem treinado para responder perguntas relacionadas ao tratamento de pessoas com Alzheimer. <br>
+O projeto foi motivado pela necessidade de cuidadores de pessoas com Alzheimer terem uma forma rápida e confiável de terem respostas e dúvidas respondidas a respeito de como cuidar de uma pessoa com Alzheimer. <br>
+Para isso, desenvolvemos um chatbot que pode ser acessado e interagido como um chatbot qualquer. O usuário fazer uma pergunta e receber duas respostas diferentes, geradas por dois modelos diferentes. Após isso, o usuário pode avaliar qual das duas respostas teve a melhor performance, eficiência e qualidade de resposta.
+
+**[Repositório](https://github.com/MirageGroup/API_MirageGroup_6_Semestre)** <br>
+
+<div align="center"><img src="./media/api5comprimido.gif" alt="aplicação rodando" height="40%" width="40%"></div>
+
+### Tecnologias Utilizadas <br>
+
+- Spring Boot: O Spring Boot foi utilizado para desenvolver o backend da aplicação, com rotas de requisição para o site e para os modelos de linguagem.
+- Vue: O framework Vue foi utilizado para o frontend da aplicação.
+- Chroma: O Chroma foi o banco de dados vetorial utilizado.
+- MongoDB: O MongoDB foi o banco de dados não relacional utilizado.
+- O Groq e o Langchain foram os modelos de linguagem utilizados.
+
+### Minhas Contribuições Pessoais <br>
+
+- **Rota de requisição para o LLM**: Fui o responsável por fazer a rota de requisição do servidor que acessa os modelos de linguagem.
+
+### Hard Skills
+
+- Utilização do **Spring Boot** para criar rotas da aplicação. Proficiência: 5/10
+
+### Soft Skills
+
+- **Adaptabilidade**: Tive que me adaptar para poder continuar trabalhando no projeto apesar das dificuldades que questões fora da faculdade estavam me causando.
+
+</details>
