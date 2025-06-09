@@ -265,7 +265,7 @@ Para isso, desenvolvemos um chatbot que pode ser acessado e interagido como um c
 
 **[Repositório](https://github.com/MirageGroup/API_MirageGroup_6_Semestre)** <br>
 
-<div align="center"><img src="./media/api5comprimido.gif" alt="aplicação rodando" height="40%" width="40%"></div>
+<div align="center"><img src="./media/API6.png" alt="aplicação rodando" height="40%" width="40%"></div>
 
 ### Tecnologias Utilizadas <br>
 
